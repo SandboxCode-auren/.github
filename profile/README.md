@@ -1,9 +1,4 @@
-<div align="center">
 
-  <!-- Banner Chính với Hiệu ứng Capsule Render -->
-  <img src="" width="100%" />
-
-  <br />
 
   <!-- Logo hiển thị song song -->
   <p align="center">
