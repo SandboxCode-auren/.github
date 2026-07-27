@@ -8,7 +8,7 @@
   <!-- Logo hiển thị song song -->
   <p align="center">
     <img src="https://github.com/SandboxCode-auren/.github/blob/2d062d099d167c66823fdd6a915e235d67211184/profile/Gemini_Generated_Image_fjlhfmfjlhfmfjlh.png" style="border-radius: 20px; margin-right: 200px;"/>
-    <img src="https://github.com/SandboxCode-auren/.github/blob/403e588fb946dc8fd100b7d2908b5964a38ae2fa/profile/file_000000004d8472078ac4f2ba304cb9a6.png" width="20px" alt="AuRen Logo" style="border-radius: 20px;"/>
+    <img src="https://github.com/SandboxCode-auren/.github/blob/403e588fb946dc8fd100b7d2908b5964a38ae2fa/profile/file_000000004d8472078ac4f2ba304cb9a6.png" width="200px" alt="AuRen Logo" style="border-radius: 20px;"/>
   </p>
 
   <!-- Hiệu ứng chữ đang gõ (Typing SVG) -->
