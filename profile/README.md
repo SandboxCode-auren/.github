@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Chính với Hiệu ứng Capsule Render -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00e5ff&height=280&section=header&text=AuRen&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Next-Gen%20Platform%20by%20SandboxCodex&descAlignY=62&descSize=25" width="100%" />
+  <img src="" width="100%" />
 
   <br />
 
