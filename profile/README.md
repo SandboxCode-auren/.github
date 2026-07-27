@@ -7,7 +7,7 @@
 
   <!-- Logo hiển thị song song -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/nguyenvanhoaithuong0507-hub/SandboxCode/main/sandbox_logo.png" width="150" alt="SandboxCodex Logo" style="border-radius: 20px; margin-right: 20px;"/>
+    <img src="https://github.com/SandboxCode-auren/.github/blob/2d062d099d167c66823fdd6a915e235d67211184/profile/Gemini_Generated_Image_fjlhfmfjlhfmfjlh.png" style="border-radius: 20px; margin-right: 20px;"/>
     <img src="https://raw.githubusercontent.com/nguyenvanhoaithuong0507-hub/auren-os/main/auren_logo.png" width="150" alt="AuRen Logo" style="border-radius: 20px;"/>
   </p>
 
